@@ -1,4 +1,6 @@
 # SIH-AI-based-Classroom-Attendance-from-Face-Recognition
+## Name: Sumith M
+## Reg no: 212224230279
 
 # AI-Based Classroom Attendance Using Face Recognition
 
