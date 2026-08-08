@@ -1,4 +1,4 @@
-# SIH---AI-based-Classroom-Attendance-from-Face-Recognition
+# SIH-AI-based-Classroom-Attendance-from-Face-Recognition
 
 # AI-Based Classroom Attendance Using Face Recognition
 
